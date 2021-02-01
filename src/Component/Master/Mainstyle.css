@@ -1,0 +1,11 @@
+.masterHeader{
+  display: flex;
+  justify-content: space-evenly;
+  
+}
+
+.masterlink{
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}

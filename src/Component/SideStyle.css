@@ -1,0 +1,17 @@
+.side_con{
+  display: flex;
+  flex-direction: column;
+}
+.sidebarlink{
+  display: flex;
+  align-items: center;
+  
+  width: 100%;
+  padding-left: 30px;
+  height: 40px;
+
+}
+.sidebarlink:hover{
+  cursor: pointer;
+
+}

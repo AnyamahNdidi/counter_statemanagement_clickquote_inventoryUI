@@ -1,0 +1,42 @@
+.allcone_nav{
+
+  display: flex;
+ 
+  background: "red";
+ 
+ 
+  
+
+}
+.allcone1{
+ 
+  padding-left: 15px;
+  width: 35%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center
+}
+
+.allcone2{
+  
+  display: flex;
+  justify-content: flex-end;
+  width: 50%;
+  align-items: center
+  
+}
+.Butin{
+  display: flex; 
+  
+}
+.imgcon{
+  background: lightblue;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    
+}
+.imgcon > img{
+  height: 50px;
+  object-fit: contain;
+}
